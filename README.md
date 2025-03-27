@@ -1,4 +1,4 @@
-# Rest-Assured Project - Validation Pet Store
+# Selenium Project - Validation Store
 
 Project using Selenium with Java - Store 
 
